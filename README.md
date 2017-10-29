@@ -1,6 +1,6 @@
 # NEWS×MAP
 
-[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=aZxTgMs1y7Y)
+[![Product Name](image.png)](https://www.youtube.com/watch?v=aZxTgMs1y7Y)
 
 ## 製品概要
 ### ニュース地図 Tech

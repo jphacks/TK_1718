@@ -1,6 +1,6 @@
 # NEWS×MAP
 
-[![Product Name](image.png)](https://youtu.be/yndU6kamWSU)
+[![Product Name](image.png)](https://youtu.be/-dl1l4dqURc)
 
 ## 製品概要
 ### ニュース地図 Tech

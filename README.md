@@ -1,4 +1,4 @@
-# NEWS×MAP
+# NEWS×MAP（プロダクト名）
 
 [![Product Name](image.png)](https://youtu.be/-dl1l4dqURc)
 

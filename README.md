@@ -1,4 +1,4 @@
-# [NEWS×MAP（プロダクト名）](http://54.249.93.130/)
+# NEWS×MAP（プロダクト名）
 ### サイトURL: http://54.249.93.130/
 
 [![Product Name](image.png)](https://youtu.be/-dl1l4dqURc)

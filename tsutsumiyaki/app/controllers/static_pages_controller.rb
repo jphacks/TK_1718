@@ -72,6 +72,12 @@ class StaticPagesController < ApplicationController
     end
   end
 
+  def about
+  end
+
+  def help
+  end
+
   def get_articles
     news_list = Api::V1::News.fetchNews[0..10].map do |rss|
       digest = Api::V1::Digest.getDigest ({title: rss.title, body: rss.description, permax: '50' })
